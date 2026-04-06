@@ -26,7 +26,7 @@
 * **[ft_printf](https://github.com/yuttto0024/ft_printf)**: 可変長引数と関数ポインタ配列を活用し、処理分岐を最適化した `printf` の再実装。
 * **[push_swap](https://github.com/yuttto0024/Push_swap)**: 2つのスタックと限定された命令群のみを用い、最小手数で数値をソートするアルゴリズムの実装。
 * **[Born2beRoot](https://github.com/yuttto0024/Born2beRoot)**: 厳密なセキュリティ設定（暗号化LVM, UFW, SSH等）を適用したDebianサーバー構築。
-* **[a_maze_ing](https://github.com/yuttto0024/a_maze_ing)**: DFS/BFSを用いた迷路の自動生成・探索Pythonプログラム。配布用パッケージのビルドなど、再利用性を重視したプログラム。
+* **[a_maze_ing](https://github.com/yuttto0024/a_maze_ing)**: DFS/BFSを用いた迷路の自動生成・探索Pythonプログラム。
 
 ### Backend & Web Projects
 * **[TokiwaCalendar](https://github.com/HikariTakahashi/tokiwa-calendar-backend)**: Go言語を用いたWebカレンダーアプリのチーム開発（バックエンド担当）。
