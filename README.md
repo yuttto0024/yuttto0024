@@ -1,6 +1,6 @@
 # Hi, I'm yuonishi
 
-42 Tokyoの学生です。大学では電気電子工学を専攻しています。
+42Tokyoの学生です。大学では電気電子工学を専攻しています。
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yu_nohup)
 
