@@ -1,6 +1,7 @@
 # Hi, I'm yuonishi
 
-42Tokyoの学生です。大学では電気電子工学を専攻しています。
+電気電子工学専攻の大学3年生です。
+42Tokyoでコンピュータサイエンスを学びつつ、ソフトウェアエンジニアを目指しています！
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yu_nohup)
 
